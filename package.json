@@ -1,5 +1,5 @@
 {
-  "name": "food-donation-management-system",
+  "name": "ANNADAATA:Food-Donation-Management-System",
   "version": "1.0.0",
   "description": "A Food donation management system in which donors can donate the food and this food can be fed to the poor people",
   "main": "app.js",
@@ -12,7 +12,7 @@
     "Donation",
     "management"
   ],
-  "author": "aayush",
+  "author": "aditya",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
