@@ -46,7 +46,7 @@ Here are some screenshots of ANNADAATA website in action:
   ![Screenshot 2024-06-18 205007](https://github.com/adiitya24/ANNADAATA/assets/124274939/99aaf127-b648-46a8-a3ff-a0105e1abeb6)
 
 
-  ### **Donar**
+ ### **Donar**
 
  - **Dashboard**
    ![Screenshot 2024-06-19 153310](https://github.com/adiitya24/ANNADAATA/assets/124274939/114f82cf-63b2-488b-adcd-5f5a40261371)
