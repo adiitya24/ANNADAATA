@@ -119,14 +119,13 @@ The system consists of three types of users: admins, donors, and agents.
 - **JavaScript**
 - **Node.js**
 - **Express.js**
-- **MongoDB**
 - **EJS**
 
 ## **NPM Packages Used**
 
 - **express**
 - **ejs**
-- **mongoose**
+
 - **bcryptjs**
 - **passport**
 - **passport-local**
